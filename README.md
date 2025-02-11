@@ -1,4 +1,4 @@
-# Complete-Python-3-Bootcamp
+# This is a forked repo of my friend!
 Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 Copyright(©) by Pierian Data Inc.
